@@ -34,7 +34,7 @@ export default function ScrollToTop() {
       <div className='flex items-center gap-2.5'>
         <Link
           href={
-            'https://getnextjstemplates.com/products/chefs-kitchen-free-nextjs-landing-page-template'
+            'https://github.com/Wilson635/chef-kitchen-nextjs.git'
           }
           target='_blank'
           className='hidden lg:block bg-primary text-white hover:bg-darkmode text-sm px-4 py-3.5 leading-none rounded-lg font-medium text-nowrap'>
